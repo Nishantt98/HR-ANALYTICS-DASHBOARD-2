@@ -39,4 +39,4 @@ Data Source: HR Employee Records (1,470 entries).
 Tooling: Likely developed in Power BI or Tableau for interactive data exploration.
 
 Screenshot/ demo - show what the dashboard look like -
-![Alt text](C:\Users\hp\Desktop\PowerBi\project5\dashboard_screenshot-5)
+![Alt text](https://github.com/Nishantt98/HR-ANALYTICS-DASHBOARD-2/blob/main/dashboard_screenshot-5.pdf)
