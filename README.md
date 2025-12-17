@@ -37,3 +37,6 @@ The table helps identify roles with high "Level 1" satisfaction scores, which ma
 
 Data Source: HR Employee Records (1,470 entries). 
 Tooling: Likely developed in Power BI or Tableau for interactive data exploration.
+
+Screenshot/ demo - show what the dashboard look like -
+![Alt text](C:\Users\hp\Desktop\PowerBi\project5\dashboard_screenshot-5)
